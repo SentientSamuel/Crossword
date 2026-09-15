@@ -1,1 +1,0 @@
-{"root":["./src/App.test.tsx","./src/App.tsx","./src/api.ts","./src/crossword.test.ts","./src/crossword.ts","./src/main.tsx","./src/types.ts","./src/useCrossword.ts","./src/components/CluesPanel.tsx","./src/components/Grid.tsx","./src/test/setup.ts"],"version":"5.9.3"}
