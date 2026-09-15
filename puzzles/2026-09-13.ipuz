@@ -1,0 +1,137 @@
+{
+  "version": "http://ipuz.org/v2",
+  "kind": [
+    "http://ipuz.org/crossword#1"
+  ],
+  "title": "Sunday Stretch",
+  "author": "Samuel Lamb",
+  "publisher": "Lamb Daily",
+  "date": "09/13/2026",
+  "difficulty": "Advanced",
+  "intro": "Thorny clues on a tidy square — Sunday energy, weekday size.",
+  "copyright": "© Samuel Lamb",
+  "dimensions": {
+    "width": 5,
+    "height": 5
+  },
+  "puzzle": [
+    [
+      1,
+      2,
+      3,
+      4,
+      5
+    ],
+    [
+      6,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      7,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      8,
+      0,
+      0,
+      0,
+      0
+    ],
+    [
+      9,
+      0,
+      0,
+      0,
+      0
+    ]
+  ],
+  "solution": [
+    [
+      "P",
+      "A",
+      "T",
+      "E",
+      "S"
+    ],
+    [
+      "A",
+      "R",
+      "E",
+      "N",
+      "A"
+    ],
+    [
+      "T",
+      "E",
+      "N",
+      "E",
+      "T"
+    ],
+    [
+      "E",
+      "N",
+      "E",
+      "M",
+      "Y"
+    ],
+    [
+      "S",
+      "A",
+      "T",
+      "Y",
+      "R"
+    ]
+  ],
+  "clues": {
+    "Across": [
+      [
+        1,
+        "Heads, to a Parisian chef"
+      ],
+      [
+        6,
+        "Gladiator's workplace"
+      ],
+      [
+        7,
+        "Doctrine held as true"
+      ],
+      [
+        8,
+        "Foe"
+      ],
+      [
+        9,
+        "Mythical woodland reveler"
+      ]
+    ],
+    "Down": [
+      [
+        1,
+        "Chef's liver spreads"
+      ],
+      [
+        2,
+        "Bowl venue"
+      ],
+      [
+        3,
+        "Belief one won't abandon"
+      ],
+      [
+        4,
+        "Adversary"
+      ],
+      [
+        5,
+        "Pan's kin"
+      ]
+    ]
+  }
+}
